@@ -1,3 +1,10 @@
 # DemoGitHub
 
 This is a Demo for Git & Github class.
+
+# Teacher
+Shradha Khapra
+
+# Student
+Delta Student
+
